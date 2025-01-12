@@ -1,7 +1,7 @@
-name: dart_mqtt_server
+name: dart_mqtt_broker
 description: MQTT Broker server app.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/mskayali/dart_mqtt_broker
 
 environment:
   sdk: ^3.5.4

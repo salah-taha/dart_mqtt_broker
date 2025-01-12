@@ -302,13 +302,13 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "dart_mqtt_server",
+      "name": "dart_mqtt_broker",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-01-12T12:45:17.423564Z",
+  "generated": "2025-01-12T14:33:58.770979Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///opt/homebrew/Caskroom/flutter/3.16.9/flutter",
