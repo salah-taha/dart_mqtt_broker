@@ -49,7 +49,7 @@ The following features can be considered for future development:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/mqtt-broker-dart.git
+   git clone https://github.com/mskayali/mqtt-broker-dart.git
    cd mqtt-broker-dart
    ```
 
